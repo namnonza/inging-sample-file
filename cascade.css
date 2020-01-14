@@ -1,0 +1,12 @@
+body {
+  height: 100vh;
+}
+
+.app {
+  background-color: darkcyan;
+}
+
+#app-id {
+  font-size: 24px;
+}
+
